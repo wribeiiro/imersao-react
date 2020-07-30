@@ -1,0 +1,72 @@
+{
+  "categorias": [
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "My Favorite Resident Evil Games",
+        "url": "https://www.residentevil.com/"
+      },
+      "videos": [
+        {
+          "titulo": "Resident Evil 2 Remake",
+          "url": "https://www.youtube.com/watch?v=Ms0_9OZMLnk"
+        },
+        {
+          "titulo": "Resident Evil 3",
+          "url": "https://www.youtube.com/watch?v=WajTS0JSvOo"
+        },
+        {
+          "titulo": "Resident Evil 4",
+          "url": "https://www.youtube.com/watch?v=nyQGhyxDoeM"
+        },
+        {
+          "titulo": "Resident Evil 1 Remake",
+          "url": "https://www.youtube.com/watch?v=Xhxo8pHlH5Q"
+        },
+        {
+          "titulo": "Resident Evil Outbreak File #2",
+          "url": "https://www.youtube.com/watch?v=ueoJtAis6RE"
+        },
+        {
+          "titulo": "Resident Evil 5",
+          "url": "https://www.youtube.com/watch?v=pJ5LhUMXjZw"
+        },
+        {
+          "titulo": "Resident Evil 6",
+          "url": "https://www.youtube.com/watch?v=3xUafBjo-hE"
+        },
+        {
+          "titulo": "Resident Evil Operation Racconn City",
+          "url": "https://www.youtube.com/watch?v=dy4sUsldPlc"
+        }
+      ]
+    },
+    {
+      "titulo": "Films",
+      "cor": "orange",
+      "link_extra": {
+        "text": "My Favorite Resident Evil Films",
+        "url": "https://www.residentevil.com/"
+      },
+      "videos": [
+        {
+          "titulo": "Resident Evil Vendetta (2017)",
+          "url": "https://www.youtube.com/watch?v=Fs5g-l0Bcss"
+        },
+        {
+          "titulo": "Resident Evil Damnation (2012)",
+          "url": "https://www.youtube.com/watch?v=AmSH3-1V188"
+        },
+        {
+          "titulo": "Resident Evil (2002)",
+          "url": "https://www.youtube.com/watch?v=dxpxP9tp4xI"
+        },
+        {
+          "titulo": "Resident Evil Apocalypse (2004)",
+          "url": "https://www.youtube.com/watch?v=ax9QVxvCu7Q"
+        }
+      ]
+    }
+  ]
+}
