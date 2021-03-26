@@ -5,7 +5,7 @@
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/imersao-alura/aluraflix/blob/master/LICENSE)
 
 # Screenshot
-![react-evil](https://user-images.githubusercontent.com/20648572/112696869-b0a8f200-8e97-11eb-853e-43cb5b855bfd.mp4)
+![react-evil](https://user-images.githubusercontent.com/20648572/112701170-fb7b3780-8ea0-11eb-9765-973e88cf6acd.gif)
 
 > Project built during the [Imersão React da Alura](https://www.alura.com.br/imersao-react/)
 
